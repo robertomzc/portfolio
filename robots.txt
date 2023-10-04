@@ -1,1 +1,1 @@
-Sitemap: https://robertomzc.github.io/portfolio//robertomzc.github.io/portfolio/sitemap.xml
+Sitemap: /sitemap.xml
