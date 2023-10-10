@@ -1,11 +1,35 @@
 #########
 # NERDY #
 #########
+cfd-python-openfoam-wrapper:
+  title: 'OpenFOAM Python wrapper'
+  type: 'nerdy'
+  in-index: 'true'
+  year: '2021'
+  stack:
+    - 'Python'
+    - 'OpenFOAM'
+    - 'Pointwise'
+    - 'Ansys'
+  images:
+    - 'cfd-python-openfoam-wrapper.png'
+
+windtunnel-test:
+  title: 'UAV Windtunnel Campaing'
+  type: 'nerdy'
+  in-index: 'true'
+  year: '2022'
+  stack:
+    - 'Aerodynamics'
+    - 'Arduino'
+    - 'Python'
+  images:
+    - 'windtunnel-test.jpg'
 
 delft-formula-student-team:
   title: 'Wind Aerostructures FS Team Delft'
   type: 'nerdy'
-  in-index: 'true'
+  in-index: 'false'
   year: '2016'
   stack:
     - 'Preimpregnated Carbon Fiber'
