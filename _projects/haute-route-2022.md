@@ -2,8 +2,8 @@
 hasGallery: true
 ---
 
-When living in Switzerland there are two main activities to do in winter. Eat fondue and go to the mountains 
-to ski or similar. If the quantity of activities is rather low, their quality is outstanding. 
+When living in Switzerland there are two main activities to do in winter.
+Eat fondue and go to the mountains to ski or similar (see Weissmies summit) **LINK**. If the quantity of activities is rather low, their quality is outstanding. 
 Some of the most beautiful landscapes and most intense adventures in this country happen in these mountains. 
 
 Among swiss and french ski-lovers there is a particular 7-day hut-to-hut route that connects _Chamonix_
