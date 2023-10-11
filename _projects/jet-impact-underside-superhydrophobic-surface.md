@@ -2,6 +2,36 @@
 hasGallery: true
 ---
 
-Despite my more air-related background until then, an opportunity to develop my MSc Thesis in Berkeley
-was difficult to reject, and thus I added water to the mix to study air-water multiphase flow around boats.
+Air lubrication for drag reduction has been long considered as a viable way of reducing drag in marine vessels. 
+It consists on creating a thin air layer  between the boat's hull and the water by pumping high pressure air underneath the boat. 
+Since the viscosity of air is much lower than that of water, this air layer creates a lubrication film which effectively reduces the friction
+between the water and air.
+Along with this reduction, multiple benefits are obtained: less fuel consumption with the economical impact attained, lower negative
+atmospheric emissions, increase of speed, lower bulk of fuel on board etc.
 
+Nevertheless, pumping air at high pressure under the hull requires some additional energy, and thus, the net savings 
+come as a balance between this energy used and the drag reduction attained. Furthermore, air layers underwater are inherently 
+unstable: the continuous air film tends to break apart into multiple bubbles before leaving the hull and rising to the surface
+
+Simo Mäkiharju realised that by covering the surface of the ship with a water-repellent (super-hydrophobic) material,
+the air required to establish a continuous air layer reduced considerably. During the nine months of MSc Thesis at his lab (FLOW Lab)
+at U.C. Berkeley, we studied therefore what are the mechanisms (the reasons why) such coating helped reduce the 
+air required to form a stable air layer, decreasing the energy need to pump it underwater, and increasing therefore the
+net energy savings. 
+
+The research was divided in two main fronts: 
+1) First, we tried to understand numerically how the interface between air and water behaved and caused the rupture of the air layer.
+This interface is wavy, similar to a sea full of waves, but with much smaller size. We simulated it with a simple numerical membrane model:
+the water-air surface tension acted as the elastic force that keeps the membrane straight, and the pressure variations
+due to the turbulent flow in the water and air layers moved the membrane up and down.
+We obtained a turbulence sample from the Johns Hopkins Turbulence Database which, after proper scaling, allowed us to observe
+how some of the water waves were high enough to impact and wet the ship's hull. 
+2) Second, we tried to build an experiment (see in the images) that represented the impact of water on the underside of a plate,
+as we had seen in the simulations. The result was conclusive, showing that the area wetted and the time water spent in 
+contact with the surface were several times smaller if the surface was coated with a super-hydrophobic material.
+
+This allowed to better understand the phenomena and the relevant parameters  of a technology that could reduce consumption
+and poluttion produced by marine vehicles. 
+Find the MSc Thesis Report and a published paper in the _Journal of Fluid Mechanics below_
+
+**ADD BUTTONS**
