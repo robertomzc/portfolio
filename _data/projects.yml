@@ -2,7 +2,7 @@
 # NERDY #
 #########
 cfd-python-openfoam-wrapper:
-  title: 'OpenFOAM Python wrapper'
+  title: 'OpenFOAM Python Wrapper'
   type: 'nerdy'
   in-index: 'true'
   year: '2021'
@@ -10,7 +10,7 @@ cfd-python-openfoam-wrapper:
     - 'Python'
     - 'OpenFOAM'
     - 'Pointwise'
-    - 'Ansys'
+    - 'ANSYS'
   images:
     - 'cfd-python-openfoam-wrapper.png'
 
@@ -46,7 +46,7 @@ formula1-epp-model:
   stack:
     - 'Design'
     - 'Solidworks'
-    - 'Modelling'
+    - 'Modeling'
   images:
     - 'formula1-epp-model.webp'
     - 'formula1-mockup-prev.webp'
@@ -63,12 +63,12 @@ jet-impact-underside-superhydrophobic-surface:
     - 'LabView'
     - 'MATLAB'
   images:
-  - 'ExperimentalSetup.jpg'
-  - 'Cytonix800MContinuousFilm.png'
-  - 'TopView_GlassWaterPatch.png'
-  - 'TopView_NeverWetWaterPatch.png'
   - 'ContactAngle_Cytonix.jpg'
+  - 'TopView_NeverWetWaterPatch.png'
+  - 'TopView_GlassWaterPatch.png'
+  - 'Cytonix800MContinuousFilm.png'
   - 'ExperimentalSetupDisassembled.jpg'
+  - 'ExperimentalSetup.jpg'
 
 upm12c-bodywork:
   title: 'UPM12C Bodywork'
@@ -133,7 +133,6 @@ water-rockets:
     - 'Science'
   images:
     - 'WaterRocketPreparation.JPG'
-    - 'WaterRocketLaunch.JPG'
     - 'WaterRocketMaxAltitudMeasurement.jpg'
 
 alps-bike-tour:
