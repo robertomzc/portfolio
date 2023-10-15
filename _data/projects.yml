@@ -162,8 +162,8 @@ weissmies-alpinism:
   images:
     - 'WeissmiesCover.jpg'
 
-indonesia-teaching-english:
-  title: 'Ndulu Project English Teacher in Indonesia'
+ndulu-english-project:
+  title: 'Ndulu English Project Teacher in Indonesia'
   type: 'human'
   in-index: 'true'
   year: '2017'

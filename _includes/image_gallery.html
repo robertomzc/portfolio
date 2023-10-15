@@ -40,6 +40,10 @@
     let touchEndX = 0;
     const gallery = document.getElementById('gallery-image');
 
+    // Initial setup
+    gallery.src = galleryImages[currentIndex];
+    toggleArrows();
+    
     const galleryImages = [
         {% for image in site.data.projects[projectName].images %}
             "/assets/images/projects/{{ projectName }}/{{ image }}",
@@ -71,8 +75,6 @@
       gallery.src = galleryImages[currentIndex];
     }
 
-    // Initial setup
-    gallery.src = galleryImages[currentIndex];
-    toggleArrows();
+
 
 </script>

@@ -1,5 +1,8 @@
 ---
 hasGallery: true
+visit:
+  - anchorText: "Ndulu English Project FB"
+    link: "https://www.facebook.com/nduluenglish"
 ---
 
 I came accross the Ndulu English Project when travelling in south-east Asia in 2017. 
@@ -16,4 +19,4 @@ Furthermore, at least at the time I was there, with donors funding, Aprianto was
 (literally) on a better enviroment for the kids. 
 
 Volunteers keep going now, 7 years later, and its possible to see their evolution and even collaborate with
-them through their Facebook page **ADD FACEBOOK LINK**
+them through their Facebook page.
