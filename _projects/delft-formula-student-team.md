@@ -2,9 +2,6 @@
 hasGallery: true
 ---
 
-
-**Add photo of DUT 18!**
-
 After the two years spent in the **link** Formula Student Team of the Universidad Politecnica de Madrid (UPM Racing),
 I moved to the Netherlands, Delft for the Aerospace MSc. Known to be one of the best Formula Student Teams in
 the world, I decided I had to join. 
@@ -20,7 +17,7 @@ accumulation of resin where the upper and lower molds joint. Similarly to when t
 in the lunchbox and a small quantity spills when closing the lid. This was aesthetically not pleasing, but furthermore
 deteriorated the air flow from the very leading edge (tip) of the wing.
 
-We investigated a new process, inspired on the icelandic team **NAME**, in which one of the molds was removed and a thin 
+We investigated a new process, inspired on the icelandic team _Spark_, in which one of the molds was removed and a thin 
 aluminum sheet was wrapped around the carbon fiber. Such method had the advantage of requiring only one mold 
 as well as leaving the leading edge of the airfoil clean.
 
