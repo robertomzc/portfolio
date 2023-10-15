@@ -67,12 +67,6 @@
 
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/theme.css" />
 
-    <!-- Swipper -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/siema@1.6.1/dist/siema.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/siema@1.6.1/dist/siema.min.js"></script>
-
-    <!-- Swipper -->
-
     {% if jekyll.environment == "production" %}
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script
@@ -111,12 +105,7 @@
       src="{{ site.baseurl }}/assets/js/theme.js"
       data-no-instant
     ></script>
-    <script
-      src="{{ site.baseurl }}/assets/js/instantclick.min.js"
-      data-no-instant
-    ></script>
     <script data-no-instant>
-      InstantClick.on("change", () => {
         // set theme on page change
         setTheme();
 
@@ -134,9 +123,7 @@
           nav.classList.toggle("hidden");
           nav.classList.toggle("flex");
         });
-      });
 
-      InstantClick.init("mousedown");
     </script>
   </body>
 </html>
