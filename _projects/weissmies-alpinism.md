@@ -1,3 +1,7 @@
+---
+hasGallery: true
+---
+
 When living in Switzerland there are two main activities to do in winter.
 Eat fondue and go to the mountains to do alpinism, ski or similar (see Haute Route 2022) **LINK**. 
 If the quantity of activities is rather low, their quality is outstanding.
