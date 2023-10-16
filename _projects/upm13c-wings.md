@@ -1,5 +1,8 @@
 ---
 hasGallery: true
+visit:
+  - anchorText: "FB page"
+    link: "https://www.facebook.com/UPMRacing/"
 ---
 
 UPM Racing is the Formula Student team of the Universidad Poltécnica de Madrid, in which a team of students design, build
