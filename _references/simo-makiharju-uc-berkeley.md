@@ -32,6 +32,6 @@ than capable of contributing to your goals. I would no doubt recommend Roberto f
 Please do not hesitate to contact me if any further question arises.
 
 
-Best Regards
+Best Regards,
 
 Prof. Simo Mäkiharju

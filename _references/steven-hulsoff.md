@@ -10,7 +10,7 @@ computational modelling.
 Since coming to our faculty, Roberto has repeatedly demonstrated high-quality performance. This
 has been especially true of our course program, which many students find difficult, yet in which he
 has performed well above average. As a teaching assistant, Roberto has also demonstrated skills
-which are not directly related to academic achievement. In general is is a good communicator,
+which are not directly related to academic achievement. In general he is a good communicator,
 and explains even abstract concepts clearly. I have also appreciated his creativity in helping to
 create new quiz questions.
 
