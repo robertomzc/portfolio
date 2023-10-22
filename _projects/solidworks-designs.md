@@ -1,6 +1,8 @@
 ---
 hasGallery: true
 ---
+NOT INCLUDED 
+
 Thanks to the license of an engineer neighbour, which I could use when he was not working, some of the _by-hand_ designs
 were digitalized into CAD. The first designs were constructed with basic and straight-corners rounded thanks to the famous
 _fillet_ option, but with time the designs evolved to smoother shapes (see images).

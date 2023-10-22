@@ -28,7 +28,7 @@ extraordinary-award-upm:
   place: "Universidad Politécnica de Madrid"
   date: "Sept 2013"
   in-index: "false"
-  url: "/assets/pdf/Extraordinary_Award_Universidad_Politecnica_Madrid.pdf"
+  url: "/assets/pdfs/Extraordinary_Award_Universidad_Politecnica_Madrid.pdf"
 
 excellence-scholarship-madrid:
   name: "Excellence Scholarship"
@@ -44,7 +44,7 @@ university-access-exams:
   place: "Universidad Complutense de Madrid"
   date: "May 2013"
   in-index: "false"
-  url: "site/assets/best-one-hundred-grades-university-access-exams.pdf"
+  url: "/assets/pdfs/best-one-hundred-grades-university-access-exams.pdf"
 
 honorable-mention-zola:
   name: "Honorable Mention"
@@ -52,7 +52,7 @@ honorable-mention-zola:
   place: " C.E. Zola"
   date: "June 2012"
   in-index: "false"
-  url: "site/assets/CE_Zola_Graduation_Grades.pdf"
+  url: "/assets/pdfs/CE_Zola_Graduation_Grades.pdf"
 
 madrid-chess-league:
   name: "Madrid Chess League"

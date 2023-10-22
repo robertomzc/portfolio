@@ -1,4 +1,0 @@
----
-hasGallery: true
----
-

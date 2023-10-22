@@ -1,11 +1,35 @@
 #########
 # NERDY #
 #########
+cfd-python-openfoam-wrapper:
+  title: 'OpenFOAM Python Wrapper'
+  type: 'nerdy'
+  in-index: 'true'
+  year: '2021'
+  stack:
+    - 'Python'
+    - 'OpenFOAM'
+    - 'Pointwise'
+    - 'ANSYS'
+  images:
+    - 'cfd-python-openfoam-wrapper.png'
+
+windtunnel-test:
+  title: 'UAV Windtunnel Campaing'
+  type: 'nerdy'
+  in-index: 'true'
+  year: '2022'
+  stack:
+    - 'Aerodynamics'
+    - 'Arduino'
+    - 'Python'
+  images:
+    - 'windtunnel-test.jpg'
 
 delft-formula-student-team:
   title: 'Wind Aerostructures FS Team Delft'
   type: 'nerdy'
-  in-index: 'true'
+  in-index: 'false'
   year: '2016'
   stack:
     - 'Preimpregnated Carbon Fiber'
@@ -13,6 +37,7 @@ delft-formula-student-team:
   images:
     - 'NewMouldlessMethodForCarbonFiberManufacturing.jpg'
     - 'MouldNewMouldlessMethodForCarbonFiberManufacturing.jpg'
+    - 'DUT17.webp'
 
 formula1-epp-model:
   title: 'Formula 1 EPP Model'
@@ -22,7 +47,7 @@ formula1-epp-model:
   stack:
     - 'Design'
     - 'Solidworks'
-    - 'Modelling'
+    - 'Modeling'
   images:
     - 'formula1-epp-model.webp'
     - 'formula1-mockup-prev.webp'
@@ -39,12 +64,12 @@ jet-impact-underside-superhydrophobic-surface:
     - 'LabView'
     - 'MATLAB'
   images:
-  - 'ExperimentalSetup.jpg'
-  - 'Cytonix800MContinuousFilm.png'
-  - 'TopView_GlassWaterPatch.png'
-  - 'TopView_NeverWetWaterPatch.png'
   - 'ContactAngle_Cytonix.jpg'
+  - 'TopView_NeverWetWaterPatch.png'
+  - 'TopView_GlassWaterPatch.png'
+  - 'Cytonix800MContinuousFilm.png'
   - 'ExperimentalSetupDisassembled.jpg'
+  - 'ExperimentalSetup.jpg'
 
 upm12c-bodywork:
   title: 'UPM12C Bodywork'
@@ -78,7 +103,7 @@ upm13c-wings:
     - 'ANSYSFluentCFDSimulation.PNG'
 
 renault-sport-f1:
-  title: 'Renault Sport Formula 1'
+  title: 'Renault Formula 1 Team'
   type: 'nerdy'
   in-index: 'true'
   year: '2017'
@@ -109,7 +134,6 @@ water-rockets:
     - 'Science'
   images:
     - 'WaterRocketPreparation.JPG'
-    - 'WaterRocketLaunch.JPG'
     - 'WaterRocketMaxAltitudMeasurement.jpg'
 
 alps-bike-tour:
@@ -139,8 +163,8 @@ weissmies-alpinism:
   images:
     - 'WeissmiesCover.jpg'
 
-indonesia-teaching-english:
-  title: 'Ndulu Project English Teacher in Indonesia'
+ndulu-english-project:
+  title: 'Ndulu English Project Teacher in Indonesia'
   type: 'human'
   in-index: 'true'
   year: '2017'
