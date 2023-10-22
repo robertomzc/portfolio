@@ -1,8 +1,10 @@
 ---
 hasGallery: true
 visit:
-  - anchorText: "FB page"
+  - anchorText: "UPM Racing FB page"
     link: "https://www.facebook.com/UPMRacing/"
+  - anchorText: "BSc Thesis"
+    link: "/assets/pdfs/RobertoMartinezdelaCruz-BScThesis-AerodynamicStudyofFormulaSAEWingPackage.pdf"
 ---
 
 UPM Racing is the Formula Student team of the Universidad Poltécnica de Madrid, in which a team of students design, build

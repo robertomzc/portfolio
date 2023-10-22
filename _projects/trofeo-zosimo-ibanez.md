@@ -1,5 +1,5 @@
 ---
-hasGalery: true
+hasGallery: true
 visit:
   - anchorText: "Zosimo Ibañez FB page"
     link: "https://www.facebook.com/torneosolidariozi"

@@ -1,7 +1,7 @@
 ---
 hasGallery: true
 visit:
-  - anchorText: "FB page"
+  - anchorText: " UPM Racing FB page"
     link: "https://www.facebook.com/UPMRacing/"
 ---
 
