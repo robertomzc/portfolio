@@ -1,5 +1,8 @@
 ---
-hasGallery: true
+hasGallery: True
+visit:
+  - anchorText: "Melchior's Video Composition"
+    link: "https://www.youtube.com/watch?v=EJOEbNGEiu4"
 ---
 
 When living in Switzerland there are two main activities to do in winter.
@@ -7,7 +10,7 @@ Eat fondue and go to the mountains to do alpinism, ski or similar (see [Haute Ro
 If the quantity of activities is rather low, their quality is outstanding.
 Some of the most beautiful landscapes and most intense adventures in this country happen in these mountains. 
 
-One of these adventures, planned by Melchior de Lamotte, author as well of the video above, consisted on taking a 
+One of these adventures, planned by [Melchior de Lamotte](https://www.linkedin.com/in/melchior-de-lamotte), author as well of the video above, consisted on taking a 
 group of noobs (including me) into high altitude mountaineering and summit our first 4000 (a mountain whose peak is above 4000m)
 The chosen route was the south-east ridge of Weissmies, in the valley of the famous ski resort SaasFee. 
 
