@@ -18,7 +18,7 @@ In general our Aerodynamics MSc track provides a background which is applicable 
 the activities on the professional career. In the case of Roberto, this has included several advanced courses
 in computational fluid dynamics, at which he has excelled.
 
-In summary, I would not hesitate to recommend Roberto for a position.
+In summary, I would not hesitate to recommend Roberto.
 With kind regards,
 
 S. J. Hulshoff
