@@ -1,7 +1,7 @@
 ---
 ---
 
-Dear Mr. Meurisse
+Dear Sir or Madam,
 
 Over the last two years I have come to know Roberto Mart´ınez de la Cruz, who has been an
 MSc candidate in our group, as well as a teaching assistant for my undergraduate course in
@@ -15,10 +15,10 @@ and explains even abstract concepts clearly. I have also appreciated his creativ
 create new quiz questions.
 
 In general our Aerodynamics MSc track provides a background which is applicable to many of
-the activities at NASA Ames. In the case of Roberto, this has included several advanced courses
+the activities on the professional career. In the case of Roberto, this has included several advanced courses
 in computational fluid dynamics, at which he has excelled.
 
-In summary, I would not hesitate to recommend Roberto for a position at your research centre.
+In summary, I would not hesitate to recommend Roberto for a position.
 With kind regards,
 
 S. J. Hulshoff
