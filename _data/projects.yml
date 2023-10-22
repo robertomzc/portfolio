@@ -103,7 +103,7 @@ upm13c-wings:
     - 'ANSYSFluentCFDSimulation.PNG'
 
 renault-sport-f1:
-  title: 'Renault Sport Formula 1'
+  title: 'Renault Formula 1 Team'
   type: 'nerdy'
   in-index: 'true'
   year: '2017'
