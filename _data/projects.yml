@@ -1,6 +1,30 @@
 #########
 # NERDY #
 #########
+advent-calendar-code-2023:
+  title: 'Advent of Code 2023'
+  type: 'nerdy'
+  in-index: 'false'
+  year: '2023'
+  stack:
+    - 'C++'
+    - 'Algorithms'
+  images:
+    - 'Advent_Of_Code_Logo.png'
+
+aerodynamic-lab:
+  title: 'Aerodynamic Lab'
+  type: 'nerdy'
+  in-index: 'true'
+  year: '2024'
+  stack:
+    - 'Aerodynamics'
+    - 'CFD'
+    - 'Python'
+  images:
+    - 'OoW_Plane.png'
+    - 'OoW_Square_LabPlate.png'
+    
 cfd-python-openfoam-wrapper:
   title: 'OpenFOAM Python Wrapper'
   type: 'nerdy'
@@ -136,6 +160,22 @@ water-rockets:
     - 'WaterRocketPreparation.JPG'
     - 'WaterRocketMaxAltitudMeasurement.jpg'
 
+##########
+# SPORTY #
+##########
+
+alpsman-2024:
+  title: 'Alpsman 2024'
+  type: 'sporty'
+  in-index: 'true'
+  year: '2024'
+
+project-13:
+  title: 'Project 13'
+  type: 'sporty'
+  in-index: 'true'
+  year: '2023'
+
 alps-bike-tour:
   title: 'French Alps 4-day bike tour'
   type: 'sporty'
@@ -163,6 +203,9 @@ weissmies-alpinism:
   images:
     - 'WeissmiesCover.jpg'
 
+###########
+# HUMAN #
+###########
 ndulu-english-project:
   title: 'Ndulu English Project Teacher in Indonesia'
   type: 'human'
@@ -193,3 +236,28 @@ trofeo-zosimo-ibanez:
   images:
     - 'RefereeTrofeoZosimoIbanez.jpg'
     - 'LogoTrofeoZosimoIbanez.jpg'
+
+franc-parler:
+  title: 'Franc Parler'
+  type: 'human'
+  in-index: 'true'
+  year: '2024'
+  stack:
+    - 'Volunteering'
+    - 'Teaching'
+    - 'French'
+  images:
+    - 'franc-parler-class.jpg'
+
+recyclo:
+  title: 'reCYCLO'
+  type: 'human'
+  in-index: 'true'
+  year: '2024'
+  stack:
+    - 'Volunteering'
+    - 'Mechanics'
+    - 'Bicycles'
+  images:
+    - 'recyclo-bikes.jpg'
+    - 'recyclo-repairing-volunteer.jpg'
