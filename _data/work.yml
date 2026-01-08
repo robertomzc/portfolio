@@ -1,14 +1,34 @@
+neural-concept:
+  name: "Neural Concept"
+  url: "https://www.neuralconcept.com"
+  position: "Machine Learning Application Engineer"
+  from-year: 2025
+  to-year: 2026
+  description: "Application of AI-powered software for optimization, analysis and design of engineering problems"
+  stack:
+    - "Python"
+    - "Machine Learning"
+    - "Data Science"
+    - "ANSYS"
+    - "CAD Software"
+    - "OpenFOAM"
+
+
 sensefly:
   name: "senseFly"
   url: "https://www.sensefly.com"
   position: "Aerodynamic Engineer"
   from-year: 2019
-  to-year: 2023
+  to-year: 2025
   description: "Fixed wing drones aerodynamic design, optimization and validation"
   stack:
     - "Windtunnel"
     - "OpenFOAM"
     - "ANSYS Fluent"
+    - "Python"
+    - "Flight Dynamics"
+    - "Aerodynamics"
+    - "CFD"
 
 teaching-assistant-delft:
   name: "TU Delft"
