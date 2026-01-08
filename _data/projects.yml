@@ -169,12 +169,21 @@ alpsman-2024:
   type: 'sporty'
   in-index: 'true'
   year: '2024'
+  images:
+    - 'alpsman-arrival.jpg'
+    - 'alpsman-pre.jpg'
+    - 'alpsman-pro.jpg'
+
 
 project-13:
   title: 'Project 13'
   type: 'sporty'
   in-index: 'true'
   year: '2023'
+  images:
+    - 'project-13-bike.jpg'
+    - 'project-13-climb.jpg'
+    - 'project-13-final.jpg'
 
 alps-bike-tour:
   title: 'French Alps 4-day bike tour'
