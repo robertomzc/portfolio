@@ -1,16 +1,6 @@
 #########
 # NERDY #
 #########
-advent-calendar-code-2023:
-  title: 'Advent of Code 2023'
-  type: 'nerdy'
-  in-index: 'false'
-  year: '2023'
-  stack:
-    - 'C++'
-    - 'Algorithms'
-  images:
-    - 'Advent_Of_Code_Logo.png'
 
 aerodynamic-lab:
   title: 'Aerodynamic Lab'
@@ -94,6 +84,17 @@ jet-impact-underside-superhydrophobic-surface:
   - 'Cytonix800MContinuousFilm.png'
   - 'ExperimentalSetupDisassembled.jpg'
   - 'ExperimentalSetup.jpg'
+
+advent-calendar-code-2023:
+  title: 'Advent of Code 2023'
+  type: 'nerdy'
+  in-index: 'false'
+  year: '2023'
+  stack:
+    - 'C++'
+    - 'Algorithms'
+  images:
+    - 'Advent_Of_Code_Logo.png'
 
 upm12c-bodywork:
   title: 'UPM12C Bodywork'
