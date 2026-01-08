@@ -19,7 +19,7 @@ sensefly:
   url: "https://www.sensefly.com"
   position: "Aerodynamic Engineer"
   from-year: 2019
-  to-year: 2024
+  to-year: 2025
   description: "Fixed wing drones aerodynamic design, optimization and validation"
   stack:
     - "Windtunnel"

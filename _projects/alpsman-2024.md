@@ -1,7 +1,7 @@
 ---
 hasGallery: true
 visit:
-  - anchorText: "Alpsman"
+  - anchorText: "Alpsman Official"
     link: "https://alps-man.com"
 ---
 

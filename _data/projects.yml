@@ -172,7 +172,7 @@ alpsman-2024:
   images:
     - 'alpsman-arrival.jpg'
     - 'alpsman-pre.jpg'
-    - 'alpsman-pro.jpg'
+    - 'alpsman-post.jpg'
 
 
 project-13:
@@ -188,7 +188,7 @@ project-13:
 alps-bike-tour:
   title: 'French Alps 4-day bike tour'
   type: 'sporty'
-  in-index: 'true'
+  in-index: 'false'
   year: '2017'
   images:
     - 'MiniTourDeFrance.jpg'
@@ -230,7 +230,7 @@ ndulu-english-project:
 berkeley-project:
   title: 'Berkeley Project Volunteer'
   type: 'human'
-  in-index: 'true'
+  in-index: 'false'
   year: '2017'
   images:
     - 'BerkeleyProjectPeople.jpeg'
